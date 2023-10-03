@@ -9,7 +9,7 @@
 
 
 
-**Reference method**[arxiv](https://arxiv.org/abs/2310.00874)
+**Reference method**  [arxiv](https://arxiv.org/abs/2310.00874)
 ```bash
 @misc{hu2023pcnerf,
       title={PC-NeRF: Parent-Child Neural Radiance Fields under Partial Sensor Data Loss in Autonomous Driving Environments}, 
